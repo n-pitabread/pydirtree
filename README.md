@@ -3,7 +3,7 @@ pydirtree
 
 A short script used to list the directory tree
 
-***To use:
-   python [--Directory that keep the pydirtree.py file--] [--PATH--]
-   (if you want to keep the output. Please log the output)
+<h3>To use:</h3><br>
+   python [--Directory that keep the pydirtree.py file--] [--PATH--]<br>
+   (if you want to keep the output. Please log the output)<br>
    python pydirtree.py [--Directory that keep the pydirtree.py file--] [--PATH--] > [--Log file--]
